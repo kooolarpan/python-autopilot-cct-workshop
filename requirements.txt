@@ -1,6 +1,5 @@
-smtplib
 pyautogui
-dotenv
+python-dotenv
 pyttsx3
 requests
-opencv
+opencv-python
