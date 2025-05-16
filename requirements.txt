@@ -1,0 +1,6 @@
+smtplib
+pyautogui
+dotenv
+pyttsx3
+requests
+opencv
